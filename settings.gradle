@@ -1,1 +1,1 @@
-include ':app', ':animator'
+include ':app', ':animator', ':animframework', ':androidevent'
