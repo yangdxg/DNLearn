@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DNLearn.iml" filepath="$PROJECT_DIR$/DNLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidevent/androidevent.iml" filepath="$PROJECT_DIR$/androidevent/androidevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/animator/animator.iml" filepath="$PROJECT_DIR$/animator/animator.iml" />
       <module fileurl="file://$PROJECT_DIR$/animframework/animframework.iml" filepath="$PROJECT_DIR$/animframework/animframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immersive/immersive.iml" filepath="$PROJECT_DIR$/immersive/immersive.iml" />
     </modules>
   </component>
 </project>

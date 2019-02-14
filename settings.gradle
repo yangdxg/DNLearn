@@ -1,1 +1,1 @@
-include ':app', ':animator', ':animframework', ':androidevent'
+include ':app', ':animator', ':animframework', ':androidevent', ':immersive'

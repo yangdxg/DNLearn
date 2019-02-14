@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/animator" />
             <option value="$PROJECT_DIR$/animframework" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/immersive" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
