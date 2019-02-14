@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/animframework" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/immersive" />
+            <option value="$PROJECT_DIR$/mydrawer" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

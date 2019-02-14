@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/animframework/animframework.iml" filepath="$PROJECT_DIR$/animframework/animframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/immersive/immersive.iml" filepath="$PROJECT_DIR$/immersive/immersive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydrawer/mydrawer.iml" filepath="$PROJECT_DIR$/mydrawer/mydrawer.iml" />
     </modules>
   </component>
 </project>
