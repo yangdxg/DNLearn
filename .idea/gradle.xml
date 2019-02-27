@@ -12,8 +12,13 @@
             <option value="$PROJECT_DIR$/animator" />
             <option value="$PROJECT_DIR$/animframework" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baselib" />
+            <option value="$PROJECT_DIR$/bitmapcache" />
+            <option value="$PROJECT_DIR$/datastructure" />
             <option value="$PROJECT_DIR$/immersive" />
             <option value="$PROJECT_DIR$/mydrawer" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
+            <option value="$PROJECT_DIR$/pattern" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

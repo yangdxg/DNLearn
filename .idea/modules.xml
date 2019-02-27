@@ -7,8 +7,13 @@
       <module fileurl="file://$PROJECT_DIR$/animator/animator.iml" filepath="$PROJECT_DIR$/animator/animator.iml" />
       <module fileurl="file://$PROJECT_DIR$/animframework/animframework.iml" filepath="$PROJECT_DIR$/animframework/animframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baselib/baselib.iml" filepath="$PROJECT_DIR$/baselib/baselib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapcache/bitmapcache.iml" filepath="$PROJECT_DIR$/bitmapcache/bitmapcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure/datastructure.iml" filepath="$PROJECT_DIR$/datastructure/datastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/immersive/immersive.iml" filepath="$PROJECT_DIR$/immersive/immersive.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydrawer/mydrawer.iml" filepath="$PROJECT_DIR$/mydrawer/mydrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecyclerview/myrecyclerview.iml" filepath="$PROJECT_DIR$/myrecyclerview/myrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
     </modules>
   </component>
 </project>

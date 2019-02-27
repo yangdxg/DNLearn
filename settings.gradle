@@ -1,1 +1,1 @@
-include ':app', ':animator', ':animframework', ':androidevent', ':immersive', ':mydrawer'
+include ':app', ':animator', ':animframework', ':androidevent', ':immersive', ':mydrawer', ':myrecyclerview', ':datastructure', ':pattern', ':bitmapcache', ':baselib'
